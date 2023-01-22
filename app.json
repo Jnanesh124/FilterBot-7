@@ -18,7 +18,7 @@
         },
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
-            "value": "5438560080:AAF_XK_wa5aY0ZdVPabW2Q1HZVJQYndWOU0"
+            "value": "5413208870:AAHI__jJmHqImKJF1kFk2ASS1AHOz-Fxo_8"
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
